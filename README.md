@@ -6,4 +6,4 @@ Compile:
 ```javac src/tools/Calculator.java -d bin```
 
 Run:  
-```javac src/tools/Calculator.java -d bin```
+```java -cp bin tools.Calculator```
